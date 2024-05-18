@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to work in **cybersecurity**
 
-- 👨‍💻 All of my projects are available on the readme at [https://github.com/MarkCyber/Projects](https://github.com/MarkCyber/Projects)
+- 👨‍💻 All of my projects are available on the readme at [https://github.com/MarkCyber/Projects](https://github.com/MarkCyber?tab=repositories)
 
 - 💬 Ask me about **penetration testing**
 
