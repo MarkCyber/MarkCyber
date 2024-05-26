@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pentestwithmark@gmail.com**
 
-- ⚡ Fun fact **Aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
+- ⚡ Fun fact: **Aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
 
 
 <!--
