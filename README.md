@@ -15,13 +15,13 @@
 
 - ⚡ Fun fact: **aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
 
-**My contributions:** 
+- **My contributions:** 
 
-[PayloadsAllTheThings:](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) SQL Injection
+-    [PayloadsAllTheThings:](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) SQL Injection
 
-[UberGuidoZ:](https://github.com/UberGuidoZ/Flipper/tree/main/BadUSB/BadUSB-MarkCyber) BadUSB
+-    [UberGuidoZ:](https://github.com/UberGuidoZ/Flipper/tree/main/BadUSB/BadUSB-MarkCyber) BadUSB
 
-[Awesome-Web-Hacking:](https://github.com/infoslack/awesome-web-hacking) Browser Credential Harvester
+-    [Awesome-Web-Hacking:](https://github.com/infoslack/awesome-web-hacking) Browser Credential Harvester
 <!--
 **MarkCyber/MarkCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
