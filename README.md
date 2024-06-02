@@ -21,7 +21,7 @@
 
    -    [UberGuidoZ](https://github.com/UberGuidoZ/Flipper) - BadUSB Scripts For FlipperZero
 
-   -    [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Harvester & Exfiltrator 
+   -    [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Exfiltration (Chrome, Firefox, Edge)
 <!--
 **MarkCyber/MarkCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
