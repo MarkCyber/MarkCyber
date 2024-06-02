@@ -16,6 +16,7 @@
 - ⚡ Fun fact: **aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
 
 **My contributions:** 
+
 [PayloadsAllTheThings:](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) SQL Injection
 
 [UberGuidoZ:](https://github.com/UberGuidoZ/Flipper/tree/main/BadUSB/BadUSB-MarkCyber) BadUSB
