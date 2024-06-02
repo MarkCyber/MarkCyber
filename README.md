@@ -17,9 +17,9 @@
 
 - **My contributions:** 
 
-   -    [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) - SQL Injection DBMS Identification
+   -    [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - SQL Injection DBMS Identification
 
-   -    [UberGuidoZ](https://github.com/UberGuidoZ/Flipper/tree/main/BadUSB/BadUSB-MarkCyber) - BadUSB Scripts For FlipperZero
+   -    [UberGuidoZ](https://github.com/UberGuidoZ/Flipper) - BadUSB Scripts For FlipperZero
 
    -    [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Harvester & Exfiltrator 
 <!--
