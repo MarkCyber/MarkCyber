@@ -17,11 +17,11 @@
 
 - **My contributions:** 
 
--    [PayloadsAllTheThings:](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) SQL Injection
+-    [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) - SQL Injection DBMS Identification
 
--    [UberGuidoZ:](https://github.com/UberGuidoZ/Flipper/tree/main/BadUSB/BadUSB-MarkCyber) BadUSB
+-    [UberGuidoZ](https://github.com/UberGuidoZ/Flipper/tree/main/BadUSB/BadUSB-MarkCyber) - BadUSB Scripts For FlipperZero
 
--    [Awesome-Web-Hacking:](https://github.com/infoslack/awesome-web-hacking) Browser Credential Harvester
+-    [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Harvester & Exfiltrator 
 <!--
 **MarkCyber/MarkCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
