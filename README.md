@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
 
-
+- ⚡ **My contributions:** [PayloadsAllTheThings SQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection), [UberGuidoZ BadUSB](https://github.com/UberGuidoZ/Flipper/tree/main/BadUSB/BadUSB-MarkCyber), [Awesome-Web-Hacking Browser Credential Harvester](https://github.com/infoslack/awesome-web-hacking)
 <!--
 **MarkCyber/MarkCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
