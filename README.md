@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Penetration Tester & Cybersecurity Enthusiast</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkCyber&theme=blood-dark)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
 
@@ -24,6 +23,8 @@
    -    [UberGuidoZ](https://github.com/UberGuidoZ/Flipper) - BadUSB Scripts For FlipperZero
 
    -    [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Exfiltration
+ 
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkCyber&theme=blood-dark)](https://git.io/streak-stats)
 <!--
 **MarkCyber/MarkCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
