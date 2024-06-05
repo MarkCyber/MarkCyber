@@ -2,7 +2,7 @@
 <h3 align="center">Penetration Tester & Cybersecurity Enthusiast</h3>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=radical&hide_rank=true&show=prs_merged)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=radical&hide_rank=true&show=prs_merged&hide_title)
 
 
 - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
