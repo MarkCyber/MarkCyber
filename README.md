@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Penetration Tester & Cybersecurity Enthusiast</h3>
 
-
-<h4 align="center">📈 GitHub Stats</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=github_dark&hide_rank=true&hide_title=true&disable_animations=true&hide=issues,prs" alt="GitHub Stats"/>
 </p>
