@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Penetration Tester & Cybersecurity Enthusiast</h3>
 
-<div style="margin-left: 70%; margin-right: 20%; text-align: left;">
+<div style="margin-left: 70%; margin-right: 70%; text-align: left;">
 <ul>
   <li>🔭 I’m currently working on the <a href="https://www.offsec.com/courses/pen-200/"><strong>OSCP</strong></a></li>
   <li>🌱 I’m currently learning about <strong>client side attacks</strong></li>
