@@ -1,46 +1,48 @@
-
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Penetration Tester & Cybersecurity Enthusiast</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Expert-blue" alt="Cybersecurity Expert"/>
+  <img src="https://img.shields.io/badge/OSCP-Student-green" alt="OSCP Student"/>
+  <img src="https://img.shields.io/github/followers/MarkCyber?label=Follow" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/twitter/follow/MarkCyber?style=social" alt="Twitter Follow"/>
+</p>
+
+<p align="center">
+  <img src="your-banner-url-here" alt="Banner"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
 
 - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
-
 - 🌱 I’m currently learning about **client side attacks**
-
 - 👯 I’m looking to work in **cybersecurity**
-
-- 👨‍💻 All of my projects are available on my repositories [**page**](https://github.com/MarkCyber?tab=repositories)
-
 - 💬 Ask me about **penetration testing**
-
 - 📫 How to reach me **pentestwithmark@gmail.com**
+- ⚡ Fun fact: **Aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
 
-- ⚡ Fun fact: **aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
+---
 
-- **My main contributions:** 
+### 🚀 My Projects
 
-   -    [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - SQL Injection DBMS Identification
+- **[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)** - SQL Injection DBMS Identification
+- **[UberGuidoZ](https://github.com/UberGuidoZ/Flipper)** - BadUSB Scripts For FlipperZero
+- **[Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)** - Browser Credential Exfiltration
 
-   -    [UberGuidoZ](https://github.com/UberGuidoZ/Flipper) - BadUSB Scripts For FlipperZero
+### 📈 GitHub Stats
 
-   -    [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Exfiltration
-    
-<!--
-**MarkCyber/MarkCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=github_dark&hide_rank=true&hide_title=true&disable_animations=true&hide=issues,prs" alt="GitHub Stats"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markcyber&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=markcyber&theme=github" alt="Contribution Graph"/>
+</p>
 
-**My Github Stats:**
--------
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=github_dark&hide_rank=true&show=prs_merged&hide_title=true&disable_animations=true&hide=issues,prs)
-
+---
