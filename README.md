@@ -24,7 +24,7 @@
 
    -    [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Exfiltration
  
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkCyber&theme=blood-dark)](https://git.io/streak-stats)
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=radical)
 <!--
 **MarkCyber/MarkCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
