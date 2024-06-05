@@ -26,7 +26,6 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src=![GitHub Stats]("https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=radical&hide_rank=true&show=prs_merged") />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
 </div>
     
 <!--
