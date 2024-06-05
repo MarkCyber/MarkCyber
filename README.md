@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=shadow_red&hide_rank=true&show=prs_merged&hide_title=true&disable_animations=true&hide=issues,prs,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=github_dark&hide_rank=true&show=prs_merged&hide_title=true&disable_animations=true&hide=issues,prs,contribs)
 
 
 <h1 align="center">Hi 👋, I'm Mark</h1>
