@@ -25,7 +25,7 @@
    -    [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Exfiltration
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src=![GitHub Stats]("https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=radical&hide_rank=true&show=prs_merged") />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=markcyber&show_icons=true&theme=radical&hide_rank=true&show=prs_merged" />
 </div>
     
 <!--
