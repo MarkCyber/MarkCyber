@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Penetration Tester & Cybersecurity Enthusiast</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkCyber&theme=blood-dark)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
 
 - 🌱 I’m currently learning about **client side attacks**
