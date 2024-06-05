@@ -4,19 +4,19 @@
 <div style="display: flex; justify-content: center;">
   <div style="padding-left: 50px;">
 
-    - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
+  - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
 
-    - 🌱 I’m currently learning about **client side attacks**
+  - 🌱 I’m currently learning about **client side attacks**
 
-    - 👯 I’m looking to work in **cybersecurity**
+  - 👯 I’m looking to work in **cybersecurity**
 
-    - 👨‍💻 All of my projects are available on my repositories [**page**](https://github.com/MarkCyber?tab=repositories)
+  - 👨‍💻 All of my projects are available on my repositories [**page**](https://github.com/MarkCyber?tab=repositories)
 
-    - 💬 Ask me about **penetration testing**
+  - 💬 Ask me about **penetration testing**
 
-    - 📫 How to reach me **pentestwithmark@gmail.com**
+  - 📫 How to reach me **pentestwithmark@gmail.com**
 
-    - ⚡ Fun fact: **aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
+  - ⚡ Fun fact: **aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
 
     **My main contributions:** 
 
