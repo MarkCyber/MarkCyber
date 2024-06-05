@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
 
-- **My contributions:** 
+- **My main contributions:** 
 
    -    [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - SQL Injection DBMS Identification
 
