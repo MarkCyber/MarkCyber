@@ -6,7 +6,7 @@
 
   - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
 
-  - 🌱 I’m currently learning about **client side attacks**
+  - 🌱 I’m currently learning about **fixing exploits**
 
   - 👯 I’m looking to work in **cybersecurity**
 
