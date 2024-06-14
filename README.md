@@ -24,7 +24,7 @@
 
     - [UberGuidoZ](https://github.com/UberGuidoZ/Flipper) - BadUSB Scripts For FlipperZero
 
-    - [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Exfiltration
+    - [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking) - Browser Credential Exfiltration & HackGPT
 
   </div>
 </div>
