@@ -6,7 +6,7 @@
 
   - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
 
-  - 🌱 I’m currently learning about **SUID enumeration & eploitation**
+  - 🌱 I’m currently learning about **SUID enumeration & exploitation**
 
   - 👯 I’m looking to work in **cybersecurity**
 
