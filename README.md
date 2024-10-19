@@ -6,7 +6,7 @@
 
   - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
 
-  - 🌱 I’m currently learning about **port forwarding & SSH tunneling**
+  - 🌱 I’m currently learning about **metasploit's meterpreter payloads**
 
   - 👯 I’m looking to work in **cybersecurity**
 
