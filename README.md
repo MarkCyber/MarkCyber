@@ -14,7 +14,7 @@
 
   - 💬 Ask me about **penetration testing**
 
-  - 📫 How to reach me **make an "issue" on a repository with your offer/email address and reason for contacting.**
+  - 📫 How to reach me **make an "issue" on a repository with your offer/email address and reason for contacting**
 
   - ⚡ Fun fact: **aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
 
