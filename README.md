@@ -6,9 +6,9 @@
 
   - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
 
-  - 🌱 I’m currently learning about **meterpreter payloads and data exfiltration**
+  - 🌱 I’m currently learning about **data exfiltration and meterpreter payloads**
 
-  - 👯 I’m looking to work in **cybersecurity**
+  - 👯 I’m looking to work in **offensive cybersecurity**
 
   - 👨‍💻 All of my projects are available on my repositories [**page**](https://github.com/MarkCyber?tab=repositories)
 
