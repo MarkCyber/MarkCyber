@@ -10,11 +10,11 @@
 
   - 👯 I’m looking to work in **offensive cybersecurity**
 
-  - 👨‍💻 All of my projects are available on my repositories [**page**](https://github.com/MarkCyber?tab=repositories)
+  - 👨‍💻 All of my projects are available on my repositories page [**here**](https://github.com/MarkCyber?tab=repositories)
 
   - 💬 Ask me about **penetration testing**
 
-  - 📫 How to reach me **pentestwithmark@gmail.com**
+  - 📫 How to reach me **make an "issue" on a repository with your offer/email address and reason for contacting.**
 
   - ⚡ Fun fact: **aside from cybersecurity, I also love martial arts (BJJ & Muay Thai)**
 
