@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: center;">
   <div style="padding-left: 50px;">
 
-  - 🔭 I’m currently working on the [**CPTS**](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
+  - 🔭 I’m currently working on the [**CVEReapeR**](https://github.com/MarkCyber/CVEReapeR-ThreatOpsAI)
 
   - 🌱 I’m currently learning about **data exfiltration and meterpreter payloads**
 
