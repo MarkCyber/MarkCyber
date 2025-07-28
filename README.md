@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: center;">
   <div style="padding-left: 50px;">
 
-  - 🔭 I’m currently working on the [**OSCP**](https://www.offsec.com/courses/pen-200/)
+  - 🔭 I’m currently working on the [**CPTS**](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
   - 🌱 I’m currently learning about **data exfiltration and meterpreter payloads**
 
@@ -12,7 +12,7 @@
 
   - 👨‍💻 All of my projects are available on my repositories page [**here**](https://github.com/MarkCyber?tab=repositories)
 
-  - 💬 Ask me about **penetration testing**
+  - 💬 Ask me about **OSINT & Pentesting**
 
   - 📫 How to reach me **make an "issue" on a repository with your offer/email address and reason for contacting**
 
