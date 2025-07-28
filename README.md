@@ -12,7 +12,7 @@
 
   - 👨‍💻 All of my projects are available on my repositories page [**here**](https://github.com/MarkCyber?tab=repositories)
 
-  - 💬 Ask me about **OSINT & Pentesting**
+  - 💬 Ask me about **penetration testing & OSINT**
 
   - 📫 How to reach me **make an "issue" on a repository with your offer/email address and reason for contacting**
 
