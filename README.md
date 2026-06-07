@@ -8,7 +8,7 @@
 
   - 🌱 I’m currently learning about **data exfiltration and meterpreter payloads**
 
-  - 👯 I’m looking to work in **integrating AI/ML with cybersecurity**
+  - 👯 I’m looking to work in **AI/ML, integrating it with cybersecurity**
 
   - 👨‍💻 All of my projects are available on my repositories page [**here**](https://github.com/MarkCyber?tab=repositories)
 
